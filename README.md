@@ -1,8 +1,8 @@
-# h410m_i5-10400_uhd630_oc_efi
+# Colorful h410m_i5-10400_uhd630_oc_efi
 
 ### 机器配置：
 ```
-主板：BATTLE-AX H410M-M.2 PRO V20
+主板：[Colorful BATTLE-AX H410M-M.2 PRO V20](url=https://colorful.cn/home/Product?id=826&mid=84)
 CPU：Intel i5-10400
 显卡：核显 UHD 630
 内存：8g + 16g，一共24g
